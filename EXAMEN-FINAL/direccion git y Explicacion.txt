@@ -1,0 +1,3 @@
+https://github.com/cdapazav/Inteligencia-Artificial-1.git
+
+Para mi problema en la clase del entorno PongEnvironment, en el metodo step(), he creado 2 variables (limiteX y limiteY) para delimitar el area del agente, los dividi entre 2 el alto y el ancho del juego. Luego cree otras 2 variables (zonaX y zonaY que son booleanos) para verificar si la posicion de la pelota estaba en la zona del agente, finalmente con un if pregunto si la pelota esta fuera de esa zona del agente y hago que la accion del agente pase a ser 0.
